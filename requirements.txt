@@ -1,3 +1,4 @@
+cryptg
 pyrogram
 tgcrypto
 aiohttp
@@ -8,4 +9,6 @@ pyromod
 Pillow
 ffmpeg
 gdown
-yt_dlp
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
+git+https://github.com/Abhay3011/youtube-dl
